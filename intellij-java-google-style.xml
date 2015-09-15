@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="GoogleStyle">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="JAVA_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
@@ -408,6 +409,10 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
